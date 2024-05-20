@@ -1,4 +1,4 @@
-"use client";
+
 import React, { useState } from "react";
 import Services from "./Services";
 import axios from "axios";

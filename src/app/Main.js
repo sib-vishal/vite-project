@@ -7,7 +7,7 @@ import SideBar from "../components/sidebar/SideBar";
 import { IoLogoWhatsapp } from "react-icons/io5";
 import { IoIosPaperPlane } from "react-icons/io";
 import { FaPhoneAlt } from "react-icons/fa";
-import Link from "react-router-dom";
+import { Link } from "react-router-dom";
 
 import FooterBar from "../components/Footer/FooterBar";
 

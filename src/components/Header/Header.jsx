@@ -1,6 +1,6 @@
 "use client";
 
-import Link from "react-router-dom";
+import { Link } from "react-router-dom";
 import React, { useEffect, useState } from "react";
 import { IoMenu } from "react-icons/io5";
 import { FaPhoneAlt } from "react-icons/fa";

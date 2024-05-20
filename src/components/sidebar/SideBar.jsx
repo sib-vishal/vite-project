@@ -1,5 +1,5 @@
 "use client";
-import Link from "react-router-dom";
+import { Link } from "react-router-dom";
 import React, { useEffect, useState } from "react";
 import { TiSocialFacebook } from "react-icons/ti";
 import { FaPhoneAlt, FaTwitter } from "react-icons/fa";

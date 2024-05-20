@@ -1,5 +1,5 @@
-"use client";
-import Link from "react-router-dom";
+
+import { Link } from "react-router-dom";
 import React, { useEffect, useState } from "react";
 import { FaSquareArrowUpRight } from "react-icons/fa6";
 import { v4 as uuidv4 } from "uuid";
